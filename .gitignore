@@ -1,1 +1,4 @@
-./rocket
+/rocket
+*.o
+*.outrocket
+rocket
